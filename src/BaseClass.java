@@ -20,6 +20,7 @@ public class BaseClass {
         }
        driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
       
+       
 	}
 
 }
